@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello there 👋
+Yes, that was a reference to star wars, couldn't resist.
 
-<!--
-**Schorts99/Schorts99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well, I've never been good writing about me but I'm gonna try.
 
-Here are some ideas to get you started:
+Hi, I'm the COO and Cofounder of [AzaChii](https://azachii.dev/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with cool technologies like React and Ruby on Rails but also know how to use Java 🧐. The truth is that I actually love to learn and try new ways of make things done without caring about the technology to use.
+
+## Want to work with me or just grab a coffee? - contact me!
+
+<a href="https://instagram.com/schorts99">
+  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/search/instagram-new"/>
+</a>
+<a href="https://twitter.com/schorts99">
+  <img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+<a href="https://www.linkedin.com/in/schorts/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/search/linkedin" />
+</a>
+<a href="https://open.spotify.com/show/7f2lgmXd7JpPrGxJkxe6nq?si=ifL_O48zTpaWOo8JZyQWrw">
+  <img align="left" alt="Spotify" width="22px" src="https://img.icons8.com/color/search/spotify" />
+</a>
+<a href="https://www.npmjs.com/~schorts99">
+  <img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/search/npm" />
+</a>
+<a href="mailto:schorts99@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
