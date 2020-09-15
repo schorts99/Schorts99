@@ -3,7 +3,7 @@ Yes, that was a reference to star wars, couldn't resist.
 
 Well, I've never been good writing about me but I'm gonna try.
 
-Hi, I'm an IT consultor & CEO of [Simply Development](https://simplydeveloment.com/).
+Hi, I'm an IT consultor & CEO of [Simply Development](https://simply-development.com/).
 
 I work with cool technologies like React and Ruby on Rails but also know how to use Java 🧐. The truth is that I actually love to learn and try new ways of make things done without caring about the technology to use.
 
