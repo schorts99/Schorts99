@@ -24,6 +24,6 @@ I work with cool technologies like React and Ruby on Rails but also know how to 
 <a href="https://www.npmjs.com/~schorts99">
   <img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/search/npm" />
 </a>
-<a href="mailto:schorts99@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+<a href="mailto:j@simply-development.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/mail.png"/>
 </a>
