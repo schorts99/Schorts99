@@ -1,13 +1,12 @@
 # Hello there 👋
-Yes, that was a reference to star wars, couldn't resist.
 
 Well, I've never been good writing about me but I'm gonna try.
 
-Hi, I'm an IT consultor & Software Developer.
+Hi, I'm an IT consultor & Software Developer with more than 5 years of experience.
 
-I work with cool technologies like React and Ruby on Rails but also know how to use Java 🧐. The truth is that I actually love to learn and try new ways of make things done without caring about the technology to use.
+I work with cool technologies like React and Ruby on Rails but also know how to use Java 🧐. The truth is that I actually love to learn and try new ways of make things done without caring too much about the technology.
 
-## Want to work with me or just grab a coffee? - I'll Be glad to receive your message!
+## Want to work with me or just grab a coffee? - Ping me!
 
 <a href="https://instagram.com/schorts99">
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/search/instagram-new"/>
