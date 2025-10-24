@@ -1,25 +1,35 @@
-# Hello there 👋
+# Hi, I'm Jorge Castillo 👋
 
-Well, I've never been good writing about me but I'm gonna try.
+Senior Full-Stack Engineer | Architectural Focus
 
-Hi, I'm an IT consultor & Software Engineer with more than 5 years of experience.
+Senior Full-Stack Engineer with 8+ years of hands-on experience designing, scaling, and leading the development of robust web and mobile applications. My expertise is rooted in modern stacks, primarily Ruby on Rails, Next.js, React, and TypeScript.
 
-I work with cool technologies like React and Ruby on Rails but also know how to use Java 🧐. The truth is that I actually love to learn and try new ways of make things done without caring too much about the technology.
+I focus on architectural integrity, leveraging patterns like Event-Driven Architecture (RabbitMQ) and Ports and Adapters to build highly maintainable and resilient systems. I thrive on solving complex, high-scale security and performance issues.
 
-## Want to work with me or just grab a coffee? - Ping me!
+## 🛠️ Core Technical Stack & Expertise
 
-<a href="https://instagram.com/schorts99">
-  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/search/instagram-new"/>
-</a>
-<a href="https://twitter.com/schorts99">
-  <img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
-<a href="https://www.linkedin.com/in/schorts/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/search/linkedin" />
-</a>
-<a href="https://www.npmjs.com/~schorts99">
-  <img align="left" alt="NPM" width="22px" src="https://img.icons8.com/color/search/npm" />
-</a>
-<a href="mailto:schorts@outlook.com">
-  <img align="left" alt="Mail" width="22px" src="https://img.icons8.com/fluent/48/000000/mail.png"/>
-</a>
+| Area               | Technologies                                                | Focus & Experience                                                      |
+|--------------------|-------------------------------------------------------------|-------------------------------------------------------------------------|
+| Backend & Core     | Ruby on Rails, Python, Node.js, TypeScript                  | Expertise in high-integrity logic, API design, and performance.         |
+| Frontend & UI      | ReactJS, Next.js, Gatsby, React Native, Tailwind CSS        | Delivering fast, responsive, and architecturally sound user interfaces. |
+| Architecture       | Ports & Adapters, Event-Driven (RabbitMQ), Shared Kernel    | Designing decoupled systems for maximum scalability and testability.    |
+| Data & Persistence | PostgreSQL, Firestore, Redis, MongoDB, GraphQL              | Optimized queries, data management, and real-time synchronization.      |
+| DevOps & Tools     | Firebase (GCP), AWS (S3, Lambdas), Docker, Git, Jest, RSpec | CI/CD contribution and commitment to comprehensive unit/load testing.   |
+
+## 🚀 Architectural & Open-Source Contributions
+
+I enjoy creating internal tools and architectural assets that increase organizational efficiency and code safety:
+
+### Shared Kernel
+
+Engineered and published a framework-agnostic npm package ([@schorts/shared-kernel](https://www.npmjs.com/package/@schorts/shared-kernel)) using TypeScript to provide core, type-safe abstractions for domain modeling, authentication, and HTTP integration.
+
+Guarantees consistency and accelerates development across multiple distinct application projects.
+
+## 📬 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/schorts
+
+Email: schorts@outlook.com
+
+Projects: Check out my repositories below for more examples of full-stack architecture and high-performance development!
