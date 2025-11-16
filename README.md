@@ -10,8 +10,8 @@ I focus on architectural integrity, leveraging patterns like Event-Driven Archit
 
 | Area               | Technologies                                                | Focus & Experience                                                      |
 |--------------------|-------------------------------------------------------------|-------------------------------------------------------------------------|
-| Backend & Core     | Ruby on Rails, Python, Node.js, TypeScript                  | Expertise in high-integrity logic, API design, and performance.         |
-| Frontend & UI      | ReactJS, Next.js, Gatsby, React Native, Tailwind CSS        | Delivering fast, responsive, and architecturally sound user interfaces. |
+| Backend & Core     | Ruby on Rails, NestJS, Python, Node.js, TypeScript                  | Expertise in high-integrity logic, API design, and performance.         |
+| Frontend & UI      | ReactJS, Next.js, Vue, Svelte, Gatsby, React Native, Tailwind CSS        | Delivering fast, responsive, and architecturally sound user interfaces. |
 | Architecture       | Ports & Adapters, Event-Driven (RabbitMQ), Shared Kernel    | Designing decoupled systems for maximum scalability and testability.    |
 | Data & Persistence | PostgreSQL, Firestore, Redis, MongoDB, GraphQL              | Optimized queries, data management, and real-time synchronization.      |
 | DevOps & Tools     | Firebase (GCP), AWS (S3, Lambdas), Docker, Git, Jest, RSpec | CI/CD contribution and commitment to comprehensive unit/load testing.   |
