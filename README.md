@@ -2,19 +2,19 @@
 
 Senior Full-Stack Engineer | Architectural Focus
 
-Senior Full-Stack Engineer with 8+ years of hands-on experience designing, scaling, and leading the development of robust web and mobile applications. My expertise is rooted in modern stacks, primarily Ruby on Rails, Next.js, React, and TypeScript.
+Senior Full-Stack Engineer with 8+ years of hands-on experience designing, scaling, and leading the development of robust web and mobile applications. My expertise is rooted in modern stacks, primarily Ruby on Rails, , NestJS, NextJS, React, and TypeScript.
 
 I focus on architectural integrity, leveraging patterns like Event-Driven Architecture (RabbitMQ) and Ports and Adapters to build highly maintainable and resilient systems. I thrive on solving complex, high-scale security and performance issues.
 
 ## 🛠️ Core Technical Stack & Expertise
 
-| Area               | Technologies                                                | Focus & Experience                                                      |
-|--------------------|-------------------------------------------------------------|-------------------------------------------------------------------------|
-| Backend & Core     | Ruby on Rails, NestJS, Python, Node.js, TypeScript                  | Expertise in high-integrity logic, API design, and performance.         |
-| Frontend & UI      | ReactJS, Next.js, Vue, Svelte, Gatsby, React Native, Tailwind CSS        | Delivering fast, responsive, and architecturally sound user interfaces. |
-| Architecture       | Ports & Adapters, Event-Driven (RabbitMQ), Shared Kernel    | Designing decoupled systems for maximum scalability and testability.    |
-| Data & Persistence | PostgreSQL, Firestore, Redis, MongoDB, GraphQL              | Optimized queries, data management, and real-time synchronization.      |
-| DevOps & Tools     | Firebase (GCP), AWS (S3, Lambdas), Docker, Git, Jest, RSpec | CI/CD contribution and commitment to comprehensive unit/load testing.   |
+| Area               | Technologies                                                               | Focus & Experience                                                      |
+|--------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Backend & Core     | Ruby on Rails, NestJS, Python, NodeJS, TypeScript                          | Expertise in high-integrity logic, API design, and performance.         |
+| Frontend & UI      | ReactJS, NextJS, Vue, Angular, Svelte, Gatsby, React Native, Tailwind CSS  | Delivering fast, responsive, and architecturally sound user interfaces. |
+| Architecture       | Ports & Adapters, Event-Driven (RabbitMQ), Shared Kernel                   | Designing decoupled systems for maximum scalability and testability.    |
+| Data & Persistence | PostgreSQL, Firestore, Redis, MongoDB, GraphQL                             | Optimized queries, data management, and real-time synchronization.      |
+| DevOps & Tools     | Firebase (GCP), AWS (S3, Lambdas), Docker, New Relic, Git, Jest, RSpec     | CI/CD contribution and commitment to comprehensive unit/load testing.   |
 
 ## 🚀 Architectural & Open-Source Contributions
 
