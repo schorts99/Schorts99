@@ -8,13 +8,13 @@ I focus on architectural integrity, leveraging patterns like Event-Driven Archit
 
 ## 🛠️ Core Technical Stack & Expertise
 
-| Area               | Technologies                                                               | Focus & Experience                                                      |
-|--------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| Backend & Core     | Ruby on Rails, NestJS, Python, NodeJS, TypeScript                          | Expertise in high-integrity logic, API design, and performance.         |
-| Frontend & UI      | ReactJS, NextJS, Vue, Angular, Svelte, Gatsby, React Native, Tailwind CSS  | Delivering fast, responsive, and architecturally sound user interfaces. |
-| Architecture       | Ports & Adapters, Event-Driven (RabbitMQ), Shared Kernel                   | Designing decoupled systems for maximum scalability and testability.    |
-| Data & Persistence | PostgreSQL, Firestore, Redis, MongoDB, GraphQL                             | Optimized queries, data management, and real-time synchronization.      |
-| DevOps & Tools     | Firebase (GCP), AWS (S3, Lambdas), Docker, New Relic, Git, Jest, RSpec     | CI/CD contribution and commitment to comprehensive unit/load testing.   |
+| Area               | Technologies                                                                       | Focus & Experience                                                      |
+|--------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Backend & Core     | Ruby on Rails, NestJS, Python, NodeJS, TypeScript                                  | Expertise in high-integrity logic, API design, and performance.         |
+| Frontend & UI      | ReactJS, NextJS, Vue, Angular, Svelte, Preact, Gatsby, React Native, Tailwind CSS  | Delivering fast, responsive, and architecturally sound user interfaces. |
+| Architecture       | Ports & Adapters, Event-Driven (RabbitMQ), Shared Kernel                           | Designing decoupled systems for maximum scalability and testability.    |
+| Data & Persistence | PostgreSQL, Firestore, Redis, MongoDB, GraphQL                                     | Optimized queries, data management, and real-time synchronization.      |
+| DevOps & Tools     | Firebase (GCP), AWS (S3, Lambdas), Docker, New Relic, Git, Jest, RSpec             | CI/CD contribution and commitment to comprehensive unit/load testing.   |
 
 ## 🚀 Architectural & Open-Source Contributions
 
