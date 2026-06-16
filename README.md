@@ -1,35 +1,42 @@
 # Hi, I'm Jorge Castillo 👋
+### Senior Full-Stack Engineer & Frontend Architect
 
-Senior Full-Stack Engineer | Architectural Focus
+Senior Full-Stack Engineer and Architect with 9+ years of hands-on experience designing, scaling, and leading the development of robust web and mobile applications. My expertise is rooted in modern, enterprise-grade stacks—primarily **TypeScript, NestJS, Ruby on Rails, and React**.
 
-Senior Full-Stack Engineer with 8+ years of hands-on experience designing, scaling, and leading the development of robust web and mobile applications. My expertise is rooted in modern stacks, primarily Ruby on Rails, , NestJS, NextJS, React, and TypeScript.
+I focus deeply on architectural integrity, leveraging **Domain-Driven Design (DDD)**, **Event-Driven Architectures**, and **Ports & Adapters (Hexagonal Architecture)** to build highly maintainable, decoupled, and resilient systems. I thrive on solving complex, high-scale data synchronization and performance bottlenecks.
 
-I focus on architectural integrity, leveraging patterns like Event-Driven Architecture (RabbitMQ) and Ports and Adapters to build highly maintainable and resilient systems. I thrive on solving complex, high-scale security and performance issues.
+---
 
 ## 🛠️ Core Technical Stack & Expertise
 
-| Area               | Technologies                                                                       | Focus & Experience                                                      |
-|--------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| Backend & Core     | Ruby on Rails, NestJS, Python, NodeJS, TypeScript                                  | Expertise in high-integrity logic, API design, and performance.         |
-| Frontend & UI      | ReactJS, NextJS, Vue, Angular, Svelte, Preact, Gatsby, React Native, Tailwind CSS  | Delivering fast, responsive, and architecturally sound user interfaces. |
-| Architecture       | Ports & Adapters, Event-Driven (RabbitMQ), Shared Kernel                           | Designing decoupled systems for maximum scalability and testability.    |
-| Data & Persistence | PostgreSQL, Firestore, Redis, MongoDB, GraphQL                                     | Optimized queries, data management, and real-time synchronization.      |
-| DevOps & Tools     | Firebase (GCP), AWS (S3, Lambdas), Docker, New Relic, Git, Jest, RSpec             | CI/CD contribution and commitment to comprehensive unit/load testing.   |
+| Layer | Technologies | Architectural Focus & Philosophy |
+| :--- | :--- | :--- |
+| **Backend & Core** | Ruby on Rails, NestJS, Node.js, TypeScript, Python | High-integrity domain logic, type-safe API contracts, and robust background processing. |
+| **Frontend & UI** | React, Next.js, Vue.js, Tailwind CSS, React Native | Scalable frontend architecture, strict component-state isolation, and 60fps real-time data throttling. |
+| **Architecture** | Ports & Adapters, Event-Driven, DDD, Shared Kernel | Eliminating distributed monoliths through clean service boundaries and asynchronous event patterns. |
+| **Data & Cloud** | PostgreSQL, Cloud Firestore, Redis, GraphQL, AWS Lambda | Optimized queries, zero-latency caching strategies, NoSQL transactions, and real-time syncing. |
+| **DevOps & Testing** | Docker, Firebase, GitHub Actions, Jest, RSpec, New Relic | Streamlining local environments (Neovim/Lua enthusiast), automated CI/CD, and strict TDD practices. |
 
-## 🚀 Architectural & Open-Source Contributions
+---
 
-I enjoy creating internal tools and architectural assets that increase organizational efficiency and code safety:
+## 🚀 Architectural Assets & Open Source
 
-### Shared Kernel
+I enjoy engineering internal tools, foundational packages, and writing design documentation that maximizes organizational efficiency and type safety.
 
-Engineered and published a framework-agnostic npm package ([@schorts/shared-kernel](https://www.npmjs.com/package/@schorts/shared-kernel)) using TypeScript to provide core, type-safe abstractions for domain modeling, authentication, and HTTP integration.
+### 📦 Shared Kernel Core
+Engineered and published a framework-agnostic npm package [**`@schorts/shared-kernel`**](https://www.npmjs.com/package/@schorts/shared-kernel) using TypeScript. It provides core, type-safe primitives for domain modeling (Value Objects, Entities), distributed authentication contracts, and HTTP abstractions. 
+* **Impact:** Enforces architectural consistency and accelerates initial service bootstrapping across multi-tenant microservices and distinct front-end apps.
 
-Guarantees consistency and accelerates development across multiple distinct application projects.
+### ✍️ Technical Writing & Philosophy
+I regularly advocate for software engineering best practices, writing actionable content on:
+* **Design Docs & RFCs:** Shifting engineering culture toward transparent, collaborative planning before a single line of code is written.
+* **Resilient Systems:** Implementing Unit of Work patterns, event versioning, and rigorous post-mortems.
+
+---
 
 ## 📬 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/schorts
+* 💼 **LinkedIn:** [linkedin.com/in/schorts](https://www.linkedin.com/in/schorts)
+* 📧 **Email:** [schorts@outlook.com](mailto:schorts@outlook.com)
 
-Email: schorts@outlook.com
-
-Projects: Check out my repositories below for more examples of full-stack architecture and high-performance development!
+> 💡 **Looking for architectural examples?** Check out my repositories below to see full-stack implementations of event-driven POS ecosystems, high-concurrency data handlers, and clean TypeScript codebases!
